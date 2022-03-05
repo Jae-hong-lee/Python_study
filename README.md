@@ -7,7 +7,7 @@
 
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
- * [10828](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/10828.py) : 제목 [(스택)](https://www.acmicpc.net/problem/10828)
+ * [10828](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
 
  <!-- 토글 생성
 <details>
