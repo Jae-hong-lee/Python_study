@@ -8,7 +8,11 @@
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
  * [10828](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
-
+ * [9012](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/9012.py) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
+ * [9093](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/9093.py) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
+ 
+ 
+ 
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
