@@ -19,6 +19,10 @@
  * [9012](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/9012.py) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
  * [9093](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/9093.py) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
  
+ ## [Leetcode](https://leetcode.com/)
+ * [1번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/two_sum.py) : Two Sum [(문제)](https://leetcode.com/problems/two-sum/)
+ * [9번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/palindrome_number.py) : Palindrome Number [(문제)](https://leetcode.com/problems/palindrome-number/)
+ * [13번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/roman_to_integer.py) : Roman to Integer[(문제)](https://leetcode.com/problems/roman-to-integer/)
  
  
  <!-- 토글 생성
@@ -32,4 +36,7 @@
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
 
  <!-- 백준 알고리즘 문제 형식 정리 -->
+ <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
+ 
+ <!-- 리트코드 문제 형식 정리 -->
  <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
