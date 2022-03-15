@@ -1,3 +1,4 @@
+숫자 문자열과 영단어 - Kakao : 문제
 # def solution(s):
 #     num_s = 'one two three four five six seven eight nine'
 #     num= [1,2,3,4,5,6,7,8,9]
