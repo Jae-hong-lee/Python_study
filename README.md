@@ -13,6 +13,9 @@
  * [최댓값과 최솟값](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/0827/08272.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12939, "Programmers Link")
  * [최솟값 만들기](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/0827/08273.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12941, "Programmers Link")
  * [숫자 문자열과 영단어 - Kakao](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/0827/08274.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81301, "Programmers Link")
+ * [주식가격](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/1001/10011.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42584, "Programmers Link")
+ * [다리를 지나는 트럭](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/1001/10012.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42583, "Programmers Link")
+
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
  * [10828](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
