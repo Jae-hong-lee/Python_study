@@ -7,6 +7,13 @@
 ### LV.1
  * [없는 숫자 더하기](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/lv1/not_num.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/86051, "Programmers Link")
  * [완주하지 못한 선수](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/lv1/unskill_player.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42576, "Programmers Link")
+ * [하샤드 수](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/lv1/Hashad.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12947?language=python3, "Programmers Link")
+ * [행렬의 덧셈](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/lv1/addition.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950?language=python3, "Programmers Link")
+ * [x만큼 간격이 있는 n개의 숫자](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/lv1/n_num_spaceed.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12954?language=python3, "Programmers Link")
+ * [핸드폰 번호 가리기](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/lv1/phone_num.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948?language=python3, "Programmers Link")
+ * [직사각형 별찍기](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/lv1/star.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969?language=python3, "Programmers Link")
+
+
 ### LV.2
  * [피보나치 수](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/0820%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0820.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12945, "Programmers Link")
  * [배달](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2022/0219_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/02191.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12978, "Programmers Link")
