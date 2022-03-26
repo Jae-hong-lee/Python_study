@@ -17,6 +17,7 @@ from collections import deque
 import sys
 T = int(sys.stdin.readline())
 queue = deque()
+
 for i in range(T):
     command = sys.stdin.readline().rstrip().split(' ')
     if command[0] == 'push':
