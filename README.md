@@ -29,6 +29,10 @@
  * [10828](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
  * [9012](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/9012.py) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
  * [9093](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/9093.py) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
+  * [10845](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0319/10845.py) : 큐 [(문제)](https://www.acmicpc.net/problem/10845)
+  * [1406](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0319/1406.py) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
+  * [1874](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0319/1874.py) : 스택수열 [(문제)](https://www.acmicpc.net/problem/1874)
+ 
  
  ## [Leetcode](https://leetcode.com/)
  * [1번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/two_sum.py) : Two Sum [(문제)](https://leetcode.com/problems/two-sum/)
