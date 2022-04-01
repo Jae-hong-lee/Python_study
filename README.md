@@ -36,7 +36,7 @@
  
  ## [Leetcode](https://leetcode.com/)
  * [1번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/two_sum.py) : Two Sum [(문제)](https://leetcode.com/problems/two-sum/)
- * [5번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/5Longest%20.py) : Longest Palindromic Substring [(문제)](URL)
+ * [5번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/5Longest%20.py) : Longest Palindromic Substring [(문제)](https://leetcode.com/problems/longest-palindromic-substring/)
  * [9번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/palindrome_number.py) : Palindrome Number [(문제)](https://leetcode.com/problems/palindrome-number/)
  * [13번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/roman_to_integer.py) : Roman to Integer[(문제)](https://leetcode.com/problems/roman-to-integer/)
  * [14번](https://github.com/Jae-hong-lee/Python_study/blob/main/Leetcode/14LCP.py) : Longest Common Prefix [(문제)](https://leetcode.com/problems/longest-common-prefix/)
