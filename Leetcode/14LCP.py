@@ -78,7 +78,7 @@ class Solution:
             
         # return answer
         return Criteria
-        
+        # enumerate로 string에 i라는 index를 줘서 비교했음
     # ffflll 으으응으음 중복값이 3개이상일때 answer c출력?
     # a 일때 "" 이 출력이 안댐?;
     # 조건이 맞지 않을때 기준값(Criteria) 출력으로 바꿈 ㅇㅋ~
