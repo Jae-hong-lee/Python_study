@@ -23,7 +23,8 @@
  * [숫자 문자열과 영단어 - Kakao](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/0827/08274.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/81301, "Programmers Link")
  * [주식가격](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/1001/10011.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42584, "Programmers Link")
  * [다리를 지나는 트럭](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2021/1001/10012.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/42583, "Programmers Link")
-
+ * [n^2 배열 자르기](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2022/0205%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/02052.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87390, "Programmers Link")
+ * [[1차] 캐시](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2022/0205%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/02051.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17680, "Programmers Link")
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
  * [10828](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
