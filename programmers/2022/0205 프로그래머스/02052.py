@@ -1,4 +1,5 @@
 # n^2 배열 자르기
+# https://programmers.co.kr/learn/courses/30/lessons/87390
 # 정수 n, left, right가 주어집니다. 다음 과정을 거쳐서 1차원 배열을 만들고자 합니다.
 
 # n행 n열 크기의 비어있는 2차원 배열을 만듭니다.
