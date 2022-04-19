@@ -28,6 +28,8 @@
  * [n^2 배열 자르기](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2022/0205%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/02052.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/87390, "Programmers Link")
  * [[1차] 캐시](https://github.com/Jae-hong-lee/Python_study/blob/main/programmers/2022/0205%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/02051.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17680, "Programmers Link")
 
+
+
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
  * [10828](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/10828.py) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
  * [9012](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0226/9012.py) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
@@ -35,6 +37,8 @@
   * [10845](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0319/10845.py) : 큐 [(문제)](https://www.acmicpc.net/problem/10845)
   * [1406](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0319/1406.py) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
   * [1874](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0319/1874.py) : 스택수열 [(문제)](https://www.acmicpc.net/problem/1874)
+  * [1158](https://github.com/Jae-hong-lee/Python_study/blob/main/baekjoon/2022/0409/1158.py) : 요세푸스 [(문제)](https://www.acmicpc.net/problem/1158)
+ 
  
  
  ## [Leetcode](https://leetcode.com/)
