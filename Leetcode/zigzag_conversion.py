@@ -57,18 +57,22 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if len(s)==0: return 0
+        if numRows == 1:
+            return s
         stack = [''] * numRows;
         index = 0
         count = 1
-        for i in range(len(s)):
+        for i in range(len(s)-1):
             stack[index] += s[i]
             index += count
             if index == numRows-1 or index==0:
                 count *=-1
             
-        print(stack)
+        # print(''.join(stack))
+        return ''.join(stack)
                 
 l = Solution()
+print(l.convert("AB",1)) # "PAHNAPLSIIGYIR"
 print(l.convert("PAYPALISHIRING",3)) # "PAHNAPLSIIGYIR"
 print(l.convert("PAYPALISHIRING",4)) # "PINALSIGYAHRPI"
 
